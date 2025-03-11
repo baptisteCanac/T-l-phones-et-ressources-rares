@@ -12,7 +12,10 @@ for groupe in groupes:
 
 baptisteCanac = fdp
 
-print(baptisteCanac)`
+print(baptisteCanac)
+```
+
+hjn
 
 
     
