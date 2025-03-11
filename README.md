@@ -1,7 +1,7 @@
 # Téléphones-et-ressources-rares
 #Téléphones et ressources rares by la team roquette
 
-```
+```Python
 fdp = "Tu est un fdp"
 #print("Hello world")
 for eleves in amphi:
