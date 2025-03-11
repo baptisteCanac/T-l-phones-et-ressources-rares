@@ -1,7 +1,7 @@
 # Téléphones-et-ressources-rares
 #Téléphones et ressources rares by la team roquette
 
-`
+```
 fdp = "Tu est un fdp"
 #print("Hello world")
 for eleves in amphi:
@@ -12,7 +12,7 @@ for groupe in groupes:
 
 baptisteCanac = fdp
 
-print(baptisteCanac)`
+print(baptisteCanac)```
 
 
     
