@@ -14,10 +14,3 @@ baptisteCanac = fdp
 
 print(baptisteCanac)
 ```
-
-hjn
-
-
-    
-  
-  
