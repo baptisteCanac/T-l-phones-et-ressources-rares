@@ -1,5 +1,4 @@
 # Téléphones-et-ressources-rares
-#Téléphones et ressources rares by la team roquette
 
 ## Ennoncé
 Récolter un jeu de données concernant la composition des téléphones en ressources rares, traiter ces données, afficher des résultats sous forme de graphiques
@@ -17,3 +16,5 @@ baptisteCanac = fdp
 
 print(baptisteCanac)
 ```
+
+### Team roquette
